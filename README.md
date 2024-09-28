@@ -1,1 +1,7 @@
-# HIZKIA_KEVIN_OCTAVIANO_2311102185
+## Repository Praktikum Algoritma & Pemrograman 2
+
+<pre>
+Nama  : Hizkia Kevin Octaviano
+NIM   : 2311102185
+Kelas : S1IF-11-01
+</pre>
