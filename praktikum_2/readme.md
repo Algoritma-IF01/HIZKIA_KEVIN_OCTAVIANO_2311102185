@@ -5,7 +5,7 @@
 ## Features
 
 [Guided](#guided)
-1. [Program "greetings"](##1.-Program-"greetings)
+1. [Program "greetings"](#1.-Program-"greetings)
 2. [Program "hipotenusa"](###2.-Program-"hipotenusa")
 
    
