@@ -6,6 +6,7 @@
 
 - [Guided](#guided)
 - [Unguided](#unguided)
+- [test](#2-program-hipotenusa)
 
 ## Guided
 
