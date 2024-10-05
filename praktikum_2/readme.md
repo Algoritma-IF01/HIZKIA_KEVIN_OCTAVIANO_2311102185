@@ -5,8 +5,15 @@
 ## Features
 
 - [Guided](#guided)
+1. [Program "greetings"](#1-program-greetings)
+2. [Program "hipotenusa"](#2-program-hipotenusa)
+
 - [Unguided](#unguided)
-- [test](#2-program-hipotenusa)
+1. [Program "Input string"](#1-program-input-string)
+2. [Program "Tahun kabisat"](#2-program-tahun-kabisat)
+3. [Program Menghitung Volume Bola & Luas Bola](#3-program-menghitung-volume-bola--luas-bola)
+4. [Program Konversi Suhu](#4-program-konversi-suhu)
+5. [Program "ASCII"](#5-program-ascii)
 
 ## Guided
 
