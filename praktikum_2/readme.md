@@ -78,18 +78,23 @@ package main
 
 import "fmt"
 
-func main(){
-	var a, b, c float64
-	var hipotenusa bool
-
-	fmt.Print("Masukkan nilai A: ")
-	fmt.Scanln(&a)
-	fmt.Print("Masukkan nilai B: ")
-	fmt.Scanln(&b)
-	fmt.Print("Masukkan nilai C: ")
-	fmt.Scanln(&c)
-	hipotenusa = (c*c) == 	(a*a + b*b)
-	fmt.Println( "Sisi c adalah hipotenusa segitiga a, b dan c: ", hipotenusa)
+func main() {
+    var (
+	satu, dua, tiga string
+	temp string
+    )
+    fmt.Print("Masukan input string: ")
+    fmt.Scanln(&satu)
+    fmt.Print("Masukan input string: ")
+    fmt.Scanln(&dua)
+    fmt.Print("Masukan input string: ")
+    fmt.Scanln(&tiga)
+    fmt.Println("Output awal = " + satu + " " + dua + " " + tiga)
+    temp = satu
+    satu = dua
+    dua = tiga
+    tiga = temp
+    fmt.Println("Output akhir = " + satu + " " + dua + " " + tiga)
 }
 ```
 
