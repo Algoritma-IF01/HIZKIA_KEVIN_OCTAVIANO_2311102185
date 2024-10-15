@@ -5,15 +5,15 @@
 ## Features
 
 - [Guided](#guided)
-1. [Program "greetings"](#1-program-greetings)
-2. [Program "hipotenusa"](#2-program-hipotenusa)
+1. [Soal_latihan1](#1-soal_latihan1)
+2. [Soal_latihan2"](#2-soal_latihan2)
 
 - [Unguided](#unguided)
-1. [Program "Input string"](#1-program-input-string)
-2. [Program "Tahun kabisat"](#2-program-tahun-kabisat)
-3. [Program Menghitung Volume Bola & Luas Bola](#3-program-menghitung-volume-bola--luas-bola)
-4. [Program Konversi Suhu](#4-program-konversi-suhu)
-5. [Program "ASCII"](#5-program-ascii)
+1. [soal_3-perulangan](#1-soal_3-perulangan)
+2. [soal_4-perulangan](#2-soal_4-perulangan)
+3. [soal_1-percabangan](#3-soal_1-percabangan)
+4. [soal_2-percabangan](#4-soal_2-percabangan)
+5. [soal_3-percabangan](#5-soal_3-percabangan)
 
 ## Guided
 
@@ -208,7 +208,7 @@ func main() {
 **Screenshot Output :**
 ![screenshot_output_unguided_soal-1-percabangan](https://github.com/user-attachments/assets/5b0683ad-e48a-40a1-bcfd-2a3ce1419572)
 
-### 3. soal_2-percabangan
+### 4. soal_2-percabangan
 
 **Source Code :**
 
@@ -318,7 +318,7 @@ func main() {
 **Screenshot Output :**
 ![screenshot_output_unguided_soal-2-percabangan_pertanyaan_c](https://github.com/user-attachments/assets/dc2132a5-da15-4ca8-b519-cf67eb045da0)
 
-### 4. soal_3-percabangan
+### 5. soal_3-percabangan
 
 **Source Code :**
 
