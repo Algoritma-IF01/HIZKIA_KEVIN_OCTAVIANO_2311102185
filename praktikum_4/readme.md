@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum_3 - Modul 3 & 4 - Fungsi dan Prosedur </h1>
+# <h1 align="center">Laporan Praktikum_4 - Modul 3 & 4 - Fungsi dan Prosedur </h1>
 
 <p align="center">Hizkia Kevin Octaviano - 2311102185</p>
 
