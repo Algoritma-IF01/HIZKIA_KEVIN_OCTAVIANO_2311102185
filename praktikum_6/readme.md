@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum_5 - Modul 10 - Struck dan Array </h1>
+# <h1 align="center">Laporan Praktikum_6 - Modul 10 - Struck dan Array </h1>
 
 <p align="center">Hizkia Kevin Octaviano - 2311102185</p>
 
