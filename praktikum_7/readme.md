@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum_6 - Modul 12 & 13 - Pengurutan Data </h1>
+# <h1 align="center">Laporan Praktikum_7 - Modul 12 & 13 - Pengurutan Data </h1>
 
 <p align="center">Hizkia Kevin Octaviano - 2311102185</p>
 
